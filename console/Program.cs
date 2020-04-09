@@ -6,7 +6,8 @@ namespace console
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hoi");
+            Console.WriteLine("Ik ben Mitch");
         }
     }
 }
